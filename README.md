@@ -1,0 +1,1 @@
+# prometheus-vendoring-example
